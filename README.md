@@ -1,7 +1,7 @@
 # deserthotel
 >Learning about Parallax effect 
 
-Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_]()
+Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_](https://rhanateix.github.io/deserthotel/)
 
 ## Table of Contents
 * [General Info](#general-information)
